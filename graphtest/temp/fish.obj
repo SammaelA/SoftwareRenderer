@@ -1,0 +1,8 @@
+# Blender v2.78 (sub 0) OBJ File: 'fish.blend'
+# www.blender.org
+mtllib fish.mtl
+o fish_Cube
+v -2.585407 0.928864 1.176850
+v -2.585407 0.696428 1.343489
+
+f 371/371/1 370/370/1 372/372/1 

@@ -1,0 +1,862 @@
+# depslib dependency file v1.0
+1563353944 source:c:\users\Альберт\desktop\программирование\c\graphtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<assert.h>
+	"rasterization.h"
+	"mash_loading.h"
+	"vec_math.h"
+	"scene_worker.h"
+	"math.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998638 c:\users\Альберт\desktop\программирование\c\sdl\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\close_code.h
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998544 c:\users\Альберт\desktop\программирование\c\sdl\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1562918987 c:\users\Альберт\desktop\программирование\c\graphtest\rasterization.h
+	<inttypes.h>
+	<SDL.h>
+	<stdbool.h>
+	"vec_math.h"
+	"mash_loading.h"
+	"scene_worker.h"
+
+1563353979 source:c:\users\Альберт\desktop\программирование\c\graphtest\raster_f.c
+	"rasterization.h"
+	"scene_worker.h"
+	"shaders.h"
+	<inttypes.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1563275818 c:\users\Альберт\desktop\программирование\c\graphtest\mash_loading.h
+	"vec_math.h"
+	<stdbool.h>
+	<SDL.h>
+
+1563278693 source:c:\users\Альберт\desktop\программирование\c\graphtest\mash_loader.c
+	"mash_loading.h"
+	"vec_math.h"
+	<inttypes.h>
+	<stdio.h>
+	<float.h>
+	<stdlib.h>
+
+1563274948 c:\users\Альберт\desktop\программирование\c\graphtest\vec_math.h
+
+1563275526 source:c:\users\Альберт\desktop\программирование\c\graphtest\vec_math.c
+	"vec_math.h"
+	<math.h>
+	"stdio.h"
+
+1561707988 c:\users\Альберт\desktop\программирование\c\graphtest\random_stuff.h
+
+1561708067 source:c:\users\Альберт\desktop\программирование\c\graphtest\random_stuff.c
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<assert.h>
+	"rasterization.h"
+	"mash_loading.h"
+	"vec_math.h"
+	"math.h"
+	"random_stuff.h"
+
+1563354336 source:c:\users\Альберт\desktop\программирование\c\graphtest\scene_worker.c
+	<stdio.h>
+	<stdbool.h>
+	"scene_worker.h"
+	"vec_math.h"
+	"mash_loading.h"
+
+1563353605 c:\users\Альберт\desktop\программирование\c\graphtest\scene_worker.h
+	"vec_math.h"
+	<stdbool.h>
+	"mash_loading.h"
+
+1562919016 source:c:\users\Альберт\desktop\программирование\c\graphtest\shaders.c
+	"shaders.h"
+	"rasterization.h"
+	"scene_worker.h"
+	<inttypes.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+
+1562919038 c:\users\Альберт\desktop\программирование\c\graphtest\shaders.h
+	<inttypes.h>
+	<SDL.h>
+	<stdbool.h>
+	"vec_math.h"
+	"mash_loading.h"
+	"scene_worker.h"
+	"rasterization.h"
+
+1563354784 source:d:\программирование\c\graphtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<assert.h>
+	"rasterization.h"
+	"mash_loading.h"
+	"vec_math.h"
+	"scene_worker.h"
+	"math.h"
+
+1562918987 d:\программирование\c\graphtest\rasterization.h
+	<inttypes.h>
+	<SDL.h>
+	<stdbool.h>
+	"vec_math.h"
+	"mash_loading.h"
+	"scene_worker.h"
+
+1563274948 d:\программирование\c\graphtest\vec_math.h
+
+1563275818 d:\программирование\c\graphtest\mash_loading.h
+	"vec_math.h"
+	<stdbool.h>
+	<SDL.h>
+
+1563353605 d:\программирование\c\graphtest\scene_worker.h
+	"vec_math.h"
+	<stdbool.h>
+	"mash_loading.h"
+
+1563278693 source:d:\программирование\c\graphtest\mash_loader.c
+	"mash_loading.h"
+	"vec_math.h"
+	<inttypes.h>
+	<stdio.h>
+	<float.h>
+	<stdlib.h>
+
+1563353979 source:d:\программирование\c\graphtest\raster_f.c
+	"rasterization.h"
+	"scene_worker.h"
+	"shaders.h"
+	<inttypes.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1562919038 d:\программирование\c\graphtest\shaders.h
+	<inttypes.h>
+	<SDL.h>
+	<stdbool.h>
+	"vec_math.h"
+	"mash_loading.h"
+	"scene_worker.h"
+	"rasterization.h"
+
+1563354336 source:d:\программирование\c\graphtest\scene_worker.c
+	<stdio.h>
+	<stdbool.h>
+	"scene_worker.h"
+	"vec_math.h"
+	"mash_loading.h"
+
+1562919016 source:d:\программирование\c\graphtest\shaders.c
+	"shaders.h"
+	"rasterization.h"
+	"scene_worker.h"
+	<inttypes.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+
+1563275526 source:d:\программирование\c\graphtest\vec_math.c
+	"vec_math.h"
+	<math.h>
+	"stdio.h"
+
